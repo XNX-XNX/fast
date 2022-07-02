@@ -1,9 +1,14 @@
 import os
 os.system('git pull')
 os.system('clear')
-#import fast
-#fast.Main()
+
 print('\033[91;1m  Facebook Is On Update ')
 print('')
 print('')
-print('\033[92;1m  New Method Will Come Soon ')
+print('\033[92;1m  So Chance Of Just Now Login Is Only 30% ')
+print()
+print()
+print()
+print('wait and read & You Will Be Directly Go On Cloning Menu In 5 Seconds');time.sleep(4)
+import fast
+fast.Main()
