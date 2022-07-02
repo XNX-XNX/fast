@@ -1,4 +1,4 @@
-import os
+import os,time
 os.system('git pull')
 os.system('clear')
 
